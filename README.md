@@ -20,7 +20,7 @@
 		1. LicenseKeys
 		
 4. PDF to TEXT
-1. Class Files
-  1. PdfToText
+	1. Class Files
+  		1. PdfToText
     Used asprise api for extracting text from Image file
     Able to extract available text from image in plaintext/ xml format
