@@ -23,4 +23,5 @@
 	1. Class Files
   		1. PdfToText
     Used asprise api for extracting text from Image file
+    Link to download the required jar : http://asprise.com/ocr/files/downloads/latest/asprise-ocr-java-15.3.1-trial-windows.zip
     Able to extract available text from image in plaintext/ xml format
